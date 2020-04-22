@@ -11,3 +11,8 @@ The major outcome of the project is to simulate the portfolio returns for the fo
 - FBN EURO
 
 The Portfolio and Macro dataset provides data on 16 Macroeconomic variables. The Funds are placed side by side with the macroeconomic variables to determine which variables can better track the growth of each fund. This is estimated using a Multivariate Regression Model.
+
+### Contributing
+Pull requests are welcome. 
+For major changes, please open an issue first to discuss what you would like to change.
+Please make sure to update tests as appropriate.
