@@ -1,7 +1,5 @@
 ## Vayner-Box
 This repository contains the files and datasets for the Vayner Box project.
-Vayner box is the backend implementation of the algorithms supporting the roboadvisory platform of Vayner Box.
-
 The major outcome of the project is to simulate the portfolio returns for the following funds traded on the Nigerian Stock Exchange:
 - AXA MMF
 - STB ETF
